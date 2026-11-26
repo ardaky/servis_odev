@@ -103,4 +103,10 @@ alan_interfaces.srv.RectangleArea_Response(area=0.0, success=False)
 
 ## Ekran görüntüsü
 
-![Terminal ekran görüntüsü](ekran_goruntusu.png)
+**Terminal 1 – sunucu:**
+
+![Sunucu ekran görüntüsü](ekran_goruntusu_server.png)
+
+**Terminal 2 – istemci:**
+
+![İstemci ekran görüntüsü](ekran_goruntusu_client.png)
